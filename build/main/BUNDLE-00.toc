@@ -1,0 +1,3 @@
+([('main',
+   '/Users/adameminger/Desktop/PythonLagLens/LagLenz/dist/main',
+   'EXECUTABLE')],)
