@@ -5,7 +5,7 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[('/Users/adameminger/Desktop/PythonLagLens/LagLenz/data/Global Liquity.csv', 'data'), ('/Users/adameminger/Desktop/PythonLagLens/LagLenz/data/Bitcoin Price.csv', 'data')],
+    datas=[('/Users/adameminger/Desktop/PythonLagLens/LagLenz/data/Bitcoin Price.csv', 'data'), ('/Users/adameminger/Desktop/PythonLagLens/LagLenz/data/Chainlink Price.csv', 'data'), ('/Users/adameminger/Desktop/PythonLagLens/LagLenz/data/DJI Price.csv', 'data'), ('/Users/adameminger/Desktop/PythonLagLens/LagLenz/data/DXY.csv', 'data'), ('/Users/adameminger/Desktop/PythonLagLens/LagLenz/data/Global Liquity.csv', 'data'), ('/Users/adameminger/Desktop/PythonLagLens/LagLenz/data/NASDAQ Price.csv', 'data'), ('/Users/adameminger/Desktop/PythonLagLens/LagLenz/data/US10Y.csv', 'data')],
     hiddenimports=['matplotlib.backends.backend_tkagg'],
     hookspath=[],
     hooksconfig={},
